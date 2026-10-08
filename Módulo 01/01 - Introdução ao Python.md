@@ -1,4 +1,4 @@
-# Aula 01 — Introdução ao Python, `print()` e Variáveis
+# Tópico 01 — Introdução ao Python, `print()` e Variáveis
 
 ## Objetivos da aula
 
@@ -1286,8 +1286,6 @@ Poder Total:
 Possui magia:
 ========================
 ```
-
-Aqui eles já começam a perceber que **programar é representar alguma coisa do mundo através de dados**.
 
 ---
 
