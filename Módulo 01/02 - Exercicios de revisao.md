@@ -1,7 +1,7 @@
 # Exercícios de revisão — Introdução ao Python
 
 **Data: 08/10/2026**  
-**Base: Aula 01 — Introdução ao Python, `print()` e variáveis.**
+**Base: [Aula 01 — Introdução ao Python, `print()` e variáveis.](./01%20-%20Introdução%20ao%20Python.md)**
 
 ## Orientações
 
