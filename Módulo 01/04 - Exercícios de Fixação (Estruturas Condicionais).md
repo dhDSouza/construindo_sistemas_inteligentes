@@ -185,7 +185,7 @@ Desenvolva um programa que receba três números representando os lados de um po
 
 Para formar um triângulo, os três lados devem ser positivos e satisfazer:
 
-\\[ a+b>c,\quad a+c>b,\quad b+c>a \\]
+> ### a+b>c E a+c>b E b+c>a
 
 Caso seja possível formar um triângulo, classifique-o:
 
