@@ -6,3 +6,4 @@
 - [Tópico 02 — Inputs e estruturas condicionais](03%20-%20Inputs%20e%20estruturas%20condicionais.md)
 - [Tópico 03 — Estruturas de Repetição com `while`](05%20-%20Estruturas%20de%20Repetição%20com%20While.md)
 - [Tópico 04 — Estruturas de Repetição com `for`](07%20-%20Estruturas%20de%20Repetição%20com%20For.md)
+- [Tópico 05 — Listas em Python](08%20-%20Listas.md)
