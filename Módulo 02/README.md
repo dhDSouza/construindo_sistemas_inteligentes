@@ -7,6 +7,7 @@ Neste módulo, vamos organizar programas Python usando classes e objetos, reunin
 ## Aulas disponíveis
 
 - [Tópico 01 — Introdução à Programação Orientada a Objetos](01%20-%20Introdução%20à%20POO.md)
+- [Exercícios extras — Tópico 01](01%20-%20Exercícios%20extras%20de%20POO.md)
 
 ## Sequência prevista
 
